@@ -25,9 +25,8 @@
 			"metadata": {
 				"description": "Unique DNS Name for the Public IP used to access the Virtual Machine."
 			}
-		}
-	},
-	"windowsOSVersion": {
+		},
+		"windowsOSVersion": {
 		"type": "string",
 		"defaultValue": "2012-R2-Datacenter",
 		"allowedValues": [
@@ -38,7 +37,9 @@
 		"metadata": {
 			"description": "The Windows version for the VM. This will pick a fully patched image of this given Windows version. Allowed values: 2008-R2-SP1, 2012-Datacenter, 2012-R2-Datacenter."
 		}
+		}
 	},
+	
 	"variables": {
 		"location": "West Europe",
 		"imagePublisher": "MicrosoftWindowsServer",
