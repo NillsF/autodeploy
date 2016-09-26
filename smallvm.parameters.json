@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "nfjsonstacc2"
+      "value": "nfjsonstacc3"
     },
     "adminUsername": {
       "value": "nilfranadmin"
