@@ -13,6 +13,11 @@
     },
     "dnsNameForPublicIP": {
       "value": "machine2"
-    }
+    },
+    {
+    "windowsOsVersion":{
+      "value":"2012-R2-DataCenter" 
+  }
+  }
   }
 }
